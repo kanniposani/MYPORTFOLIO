@@ -1,11 +1,13 @@
-# 👨‍💻 UdayKiran — Personal Portfolio
+# 👨‍💻 UDAYKIRAN — Personal Portfolio
 
 Welcome to my personal portfolio website!
 This website showcases my **skills, projects, education, and interests in software development and AI**.
 
+---
+
 ## 🚀 About Me
 
-Hi, I'm **UdayKiran**, a 3rd-year Engineering student passionate about building practical software solutions and learning new technologies.
+Hi, I'm **UDAYKIRANPOSANI**, a 3rd-year Engineering student passionate about building practical software solutions and learning new technologies.
 
 I'm currently focused on strengthening my skills in:
 
@@ -133,7 +135,12 @@ I'm currently preparing for **software engineering placements** and looking for 
 
 ---
 
+## 📫 Connect With Me
 
+* 💻 GitHub: [GitHub](https://github.com/)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/)
+
+---
 
 ## ⭐ Portfolio
 
